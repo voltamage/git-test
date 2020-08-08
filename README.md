@@ -1,2 +1,3 @@
-# Second git test, adding extra text here
-New line full of many interesting things
+# Third git test, adding extra text here
+Replaced line in readme
+Adding third line
