@@ -1,2 +1,2 @@
-# Eigth git test
-Deleted generic creds from credential manager
+# Ninth git test
+Testing an intentional fail with WSL git, then linking it with windows credential manager
