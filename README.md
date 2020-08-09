@@ -1,3 +1,2 @@
-What do i have to do to get the gutters to work
-# Tenth git test  
-And also git gutter functionality in vscode again  
+# Eleventh git test  
+VSCode nearly set up, gutters are working, testing source control right now, going to tweak the settings.json to query for pushes but not for external links  
