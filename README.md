@@ -1,2 +1,2 @@
-# Seventh git test
-What the fuck is your problem windows
+# Eigth git test
+Deleted generic creds from credential manager
