@@ -1,2 +1,3 @@
-# Ninth git test
-Testing an intentional fail with WSL git, then linking it with windows credential manager
+# Tenth git test
+Testing diff compare
+And also git gutter functionality in vscode
