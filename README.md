@@ -1,3 +1,3 @@
+What do i have to do to get the gutters to work
 # Tenth git test  
-Testing diff compare  
-And also git gutter functionality in vscode  
+And also git gutter functionality in vscode again  
